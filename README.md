@@ -1,2 +1,2 @@
-# promtail-setup-usinh-helm
-promtail setup usinh helm
+# promtail-setup-using-helm
+promtail setup using helm
